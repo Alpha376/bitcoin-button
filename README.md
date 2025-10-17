@@ -1,2 +1,3 @@
 # bitcoin-button
-Bitcoin payment button 
+Bitcoin payment
+
