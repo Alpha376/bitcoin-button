@@ -1,4 +1,4 @@
-# CC$pammer
+# bitcoin-button
 Bitcoin payment
 
 
